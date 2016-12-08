@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="prabhakar.kml" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>prabhakar.kml</name>
+	<open>1</open>
+	<Snippet maxLines="0"></Snippet>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>0.75</width>
+		</LineStyle>
+		<PolyStyle>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle10">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<width>0.75</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle20">
+		<IconStyle>
+			<scale>1.625</scale>
+			<Icon>
+				<href>Layer2_Symbol_df66580_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle21">
+		<IconStyle>
+			<scale>1.625</scale>
+			<Icon>
+				<href>Layer2_Symbol_df662f0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>_Polygons_</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00000">
+			<name>river</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;"></td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-120.525930899,37.30772488500003,0 -120.538066987,37.31397349800005,0 -120.565398452,37.31263128100005,0 -120.589905595,37.30550211900004,0 -120.571988723,37.28716516600008,0 -120.571831657,37.28670090700007,0 -120.571596222,37.28600498600008,0 -120.571400175,37.28542547800004,0 -120.569722875,37.28415740700007,0 -120.568525186,37.28291829000006,0 -120.5680000039999,37.28228469000004,0 -120.525930899,37.30772488500003,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder id="FeatureLayer1">
+		<name>_Polylines_</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_10000">
+			<name>stream</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;"></td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#LineStyle10</styleUrl>
+			<MultiGeometry>
+				<LineString>
+					<coordinates>
+						-120.533400616,37.29785268400008,0 -120.533467053,37.29780708600003,0 -120.5336475889999,37.29760984900003,0 -120.533761636,37.29745828700004,0 -120.533941963,37.29726128600004,0 -120.534179081,37.29698877000004,0 -120.534510418,37.29676146300005,0 -120.534822688,37.29647409500007,0 -120.535285817,37.29602852200003,0 -120.535899259,37.29555303700005,0 -120.53646456,37.29505594400007,0 -120.5370761789999,37.29458189900004,0 -120.537611566,37.29412379400003,0 -120.537948397,37.29367467300006,0 -120.538098176,37.29351750800004,0 -120.538266283,37.29329333800007,0 -120.538368673,37.29311427800008,0 -120.538490215,37.29299472300005,0 -120.538602091,37.29284553400004,0 -120.538807355,37.29261429600007,0 -120.539143356,37.29229359500005,0 -120.539676281,37.29196482800006,0 -120.540376811,37.29153931800005,0 -120.541273666,37.29110585400008,0 -120.542429892,37.29049442200005,0 -120.543399321,37.29004690500005,0 -120.544654543,37.28938505700006,0 -120.545240277,37.28910983000003,0 -120.546427782,37.28849389300007,0 -120.547589487,37.28803986700007,0 -120.548617717,37.28755066400004,0 -120.549543107,37.28711377200006,0 -120.550504799,37.28666977700004,0 -120.551150875,37.28635217800007,0 -120.551529605,37.28618214700003,0 -120.551823282,37.28599830600007,0 
+					</coordinates>
+				</LineString>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+	<Folder id="FeatureLayer2">
+		<name>_Points_</name>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_20000">
+			<name>3333333A</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;"></td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle20</styleUrl>
+			<Point>
+				<coordinates>-118.625189994,35.31866985600004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_20001">
+			<name>testpoint</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body>
+
+<table>
+
+<tr><td style="white-space: nowrap;"></td></tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle21</styleUrl>
+			<Point>
+				<coordinates>-120.544295281,37.29215440700006,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
