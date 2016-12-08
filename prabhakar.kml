@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>prabhakar.kml</name>
+	<open>1</open>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/3-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>3333333A</name>
+		<LookAt>
+			<longitude>-120.5445775403225</longitude>
+			<latitude>37.29887805444707</latitude>
+			<altitude>0</altitude>
+			<heading>-14.28010064216157</heading>
+			<tilt>5.237001214000379</tilt>
+			<range>18240.32674401656</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_3</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-118.6251899941299,35.31866985582831,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>river</name>
+		<styleUrl>#m_ylw-pushpin1</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-120.5259308988313,37.3077248851348,0 -120.538066986614,37.31397349782412,0 -120.5653984519328,37.31263128097767,0 -120.5899055954238,37.30550211857388,0 -120.5719887227987,37.28716516594821,0 -120.5718316571185,37.28670090726317,0 -120.5715962215835,37.2860049856023,0 -120.5714001747047,37.28542547840849,0 -120.5697228751731,37.28415740723242,0 -120.5685251858231,37.28291829009,0 -120.5680000038599,37.28228469040654,0 -120.5259308988313,37.3077248851348,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>testpoint</name>
+		<LookAt>
+			<longitude>-120.5445775403225</longitude>
+			<latitude>37.29887805444707</latitude>
+			<altitude>0</altitude>
+			<heading>-14.28010064216149</heading>
+			<tilt>5.237559127870902</tilt>
+			<range>18240.32674401604</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin0</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-120.5442952812165,37.29215440718441,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>stream</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-120.5518232818921,37.28599830569693,0 -120.5515296054211,37.28618214744049,0 -120.5511508747025,37.28635217783241,0 -120.5505047990291,37.28666977733926,0 -120.5495431066314,37.28711377223271,0 -120.5486177171077,37.28755066386925,0 -120.547589487117,37.28803986713661,0 -120.5464277819902,37.28849389347153,0 -120.5452402773473,37.28910982965813,0 -120.5446545430954,37.28938505718009,0 -120.5433993206126,37.29004690519028,0 -120.5424298924098,37.29049442226598,0 -120.5412736661335,37.29110585418982,0 -120.5403768113321,37.2915393180855,0 -120.5396762814897,37.29196482800199,0 -120.539143355525,37.29229359489491,0 -120.5388073554693,37.29261429565295,0 -120.5386020910092,37.29284553430996,0 -120.5384902150059,37.29299472313173,0 -120.5383686733773,37.29311427785594,0 -120.5382662829185,37.29329333822597,0 -120.5380981762323,37.29351750807051,0 -120.5379483968046,37.29367467259309,0 -120.5376115660131,37.29412379372058,0 -120.5370761787835,37.29458189862354,0 -120.5364645596042,37.29505594441891,0 -120.5358992586691,37.29555303740257,0 -120.5352858166132,37.29602852155667,0 -120.5348226877314,37.29647409482146,0 -120.5345104180447,37.29676146253627,0 -120.5341790814392,37.29698877046843,0 -120.5339419632736,37.2972612863796,0 -120.5337616362627,37.2974582869265,0 -120.5336475892368,37.29760984936841,0 -120.5334670526652,37.29780708568152,0 -120.5334006158628,37.2978526843139,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
